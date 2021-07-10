@@ -10,7 +10,7 @@ The opcode has only been tested on Linux as of writing.
 
 
 ## Building
-Create a build directory at the top of the source tree, execute *cmake ..*, *make* and optionally *make install* as root. If the latter is not used/possible then the resulting libnstrexists module can be used with the *--opcode-lib* flag in Csound. eg:
+Create a build directory at the top of the source tree, execute *cmake ..*, *make* and optionally *make install* as root. If the latter is not used/possible then the resulting module can be used with the *--opcode-lib* flag in Csound. eg:
 	
 	cd csound-festival
 	mkdir build && cd build
