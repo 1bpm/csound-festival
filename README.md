@@ -6,7 +6,7 @@ The opcode has only been tested on Linux as of writing.
 ## Requirements
  - Csound development libraries
  - [Festival](https://www.cstr.ed.ac.uk/projects/festival/) which also depends on [The Edinburgh Speech Tools Library](https://www.cstr.ed.ac.uk/projects/speech_tools/), both probably handled by your relevant package manager.
- - Cmake 3.8 or later
+ - Cmake 2.8.12 or later
 
 
 ## Building
